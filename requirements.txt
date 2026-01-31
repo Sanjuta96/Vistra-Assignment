@@ -1,0 +1,6 @@
+pytest
+pytest-xdist
+allure-pytest
+requests
+playwright
+pytest-playwright

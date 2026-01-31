@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+config.py
+
+# Playwright artifacts
+playwright-report/
+allure-results/
+allure-report/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
